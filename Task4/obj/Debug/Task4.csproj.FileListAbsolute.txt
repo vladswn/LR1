@@ -1,0 +1,6 @@
+E:\4k\2semestr\КПП\LR_1\Task4\bin\Debug\Task4.exe.config
+E:\4k\2semestr\КПП\LR_1\Task4\bin\Debug\Task4.exe
+E:\4k\2semestr\КПП\LR_1\Task4\bin\Debug\Task4.pdb
+E:\4k\2semestr\КПП\LR_1\Task4\obj\Debug\Task4.exe
+E:\4k\2semestr\КПП\LR_1\Task4\obj\Debug\Task4.pdb
+E:\4k\2semestr\КПП\LR_1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

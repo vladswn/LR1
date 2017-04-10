@@ -1,0 +1,6 @@
+E:\4k\2semestr\КПП\LR_1\LR_1\bin\Debug\LR_1.exe.config
+E:\4k\2semestr\КПП\LR_1\LR_1\bin\Debug\LR_1.exe
+E:\4k\2semestr\КПП\LR_1\LR_1\bin\Debug\LR_1.pdb
+E:\4k\2semestr\КПП\LR_1\LR_1\obj\Debug\LR_1.csprojResolveAssemblyReference.cache
+E:\4k\2semestr\КПП\LR_1\LR_1\obj\Debug\LR_1.exe
+E:\4k\2semestr\КПП\LR_1\LR_1\obj\Debug\LR_1.pdb
